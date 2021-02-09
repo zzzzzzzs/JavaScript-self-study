@@ -1,2 +1,2 @@
-# JavaScript基础
+# JavaScript self study
 
